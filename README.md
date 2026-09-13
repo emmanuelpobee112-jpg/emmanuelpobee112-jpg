@@ -1,9 +1,20 @@
-## Hi there 👋
+### Hi there, I'm Emmanuel Pobee 👋
 
-<!--
-**emmanuelpobee112-jpg/emmanuelpobee112-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm on a journey from serving in church media to building in tech.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: HTML, CSS, JavaScript & Git
+- 👯 Looking to collaborate on: Beginner-friendly web projects
+- 📍 From: Accra, Ghana
+- 🎯 Goal: Become a full-stack developer
+
+### 🛠️ My Toolbox
+HTML | CSS | JavaScript | Git | GitHub
+
+Let's connect and build together! 🚀
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
