@@ -1,3 +1,9 @@
+
+### 👨‍💻 Founder of Adapt OS
+I built **Adapt OS** - An Adaptive Workspace That Adapts To You. A personal operating system that adapts to the user, not the other way around. Built from Accra, Ghana.
+
+🔗 **Main Project:** [adapt-os-major](https://github.com/emmanuelpobee112-jpg/adapt-os-major)
+ 
 ### Hi there, I'm Emmanuel Pobee 👋
 
 Welcome to my GitHub! I'm on a journey from serving in church media to building in tech.
