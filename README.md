@@ -15,14 +15,17 @@ Building an adaptive workspace that puts people first.
 
 
 
+
+
 01 / About
-I'm a student and developer on a journey from serving in church media to building useful technology. I'm the creator of Adapt OS --- an adaptive workspace that adapts to you: a personal workspace designed around the user, rather than forcing every user into the same workflow.
+I'm a student and developer on a journey from serving in church media to building useful technology. Creator of Adapt OS --- an adaptive workspace that adapts to you: a personal workspace designed around the user, rather than forcing every user into the same workflow.
 I enjoy turning ideas into practical, responsive web experiences, learning by building, and making technology feel more approachable for everyone.
 📍 Based in: Accra, Ghana
 🚀 Building: Adapt OS and beginner-friendly web projects
 🌱 Learning: HTML, CSS, JavaScript and Git/GitHub
 🤝 Open to: Collaborating on beginner-friendly web projects
 🎯 Long-term goal: Grow into a full-stack developer
+
 
 
 
@@ -44,12 +47,15 @@ What I'm practising - Semantic HTML and accessible structure - Responsive layout
 
 
 
+
+
 03 / My Toolbox
-::: {align="center"} Area              Tools and technologies
+::: Area              Tools and technologies
 Structure         HTML5 Styling           CSS3 · Responsive design Interactivity     JavaScript Version control   Git · GitHub Building          VS Code / web development tools :::
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=light" alt="HTML, CSS, JavaScript, Git and GitHub" />
 </p>
+
 
 
 
@@ -58,6 +64,7 @@ Structure         HTML5 Styling           CSS3 · Responsive design Interactivit
 Adapt OS is my main project: a personal operating workspace built around the idea that software should adapt to the user, not the other way around.
 Project repository: adapt-os-major
 I'm building step by step, learning from each challenge, and improving the product as I go.
+
 
 
 
@@ -70,12 +77,14 @@ If you're also learning and building, let's connect and make something useful.
 
 
 
+
 06 / A Little More About Me
 🎥 My journey into technology began through church media.
 💻 I enjoy learning by creating real projects.
 🧩 I'm interested in tools that make everyday work and learning easier.
 ⚡ Fun fact: I'm turning ideas into projects one feature at a time.
 ::: 
+
 
 
 Let's connect and build together! 🚀
