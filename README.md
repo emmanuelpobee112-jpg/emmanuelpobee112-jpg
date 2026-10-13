@@ -11,7 +11,7 @@
 👋 Hi, I'm Emmanuel Pobee Okpoti
 Founder of Adapt OS · Front-End Developer · Builder from Accra, Ghana 🇬🇭
 Building an adaptive workspace that puts people first.
-� � :::
+
 
 
 
