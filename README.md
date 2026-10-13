@@ -98,7 +98,7 @@ Let's connect and build together! 🚀
   <a href="mailto: emmanuelpobee112@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME/">
+  <a href="https://www.linkedin.com/in/emmanuel-pobee-359718432/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/junior-pobee">
