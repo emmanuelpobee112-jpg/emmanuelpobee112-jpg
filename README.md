@@ -89,7 +89,8 @@ If you're also learning and building, let's connect and make something useful.
 
 Let's connect and build together! 🚀
 "Keep learning. Keep building. Keep adapting."
-�
+
+
 <sub>Made with curiosity and consistency in Accra, Ghana 🇬🇭</sub> :::
 
 
