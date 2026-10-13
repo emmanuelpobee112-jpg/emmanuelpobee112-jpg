@@ -37,7 +37,7 @@ I enjoy turning ideas into practical, responsive web experiences, learning by bu
 An adaptive workspace focused on bringing useful tools and workflows together in one place.
 Current priorities - Improving the interface and responsiveness - Making features genuinely functional - Exploring useful learning and productivity tools - Building a consistent product experience
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background: green;">
 🛠️ Growing as a Developer
 I'm strengthening my foundations by building real projects and learning how the web works.
 What I'm practising - Semantic HTML and accessible structure - Responsive layouts with CSS - JavaScript and interactive interfaces - Git, GitHub and collaborative workflows
