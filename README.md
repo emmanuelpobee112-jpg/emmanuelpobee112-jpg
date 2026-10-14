@@ -281,31 +281,15 @@ A workspace designed for different screen sizes.
 
 <h2 align="center">05 / MY WORKING MODE</h2>
 
-<div align="center">
+<div align="left">
 
-<img
-  src="https://img.shields.io/badge/01-PLAN-0F172A?style=for-the-badge"
-  alt="Plan"
->
-<img
-  src="https://img.shields.io/badge/02-DESIGN-164E63?style=for-the-badge"
-  alt="Design"
->
-<img
-  src="https://img.shields.io/badge/03-BUILD-0E7490?style=for-the-badge"
-  alt="Build"
->
-<img
-  src="https://img.shields.io/badge/04-TEST-2563EB?style=for-the-badge"
-  alt="Test"
->
-<img
-  src="https://img.shields.io/badge/05-IMPROVE-4338CA?style=for-the-badge"
-  alt="Improve"
->
+<img src="https://img.shields.io/badge/01--PLAN-0F172A?style=for-the-badge" alt="Plan">
+<img src="https://img.shields.io/badge/02--DESIGN-164E63?style=for-the-badge" alt="Design">
+<img src="https://img.shields.io/badge/03--BUILD-0E7490?style=for-the-badge" alt="Build">
+<img src="https://img.shields.io/badge/04--TEST-2563EB?style=for-the-badge" alt="Test">
+<img src="https://img.shields.io/badge/05--IMPROVE-4338CA?style=for-the-badge" alt="Improve">
 
 </div>
-
 <br>
 
 I believe a useful product requires more than making something work. It should be understandable, reliable, responsive, and genuinely helpful.
