@@ -412,6 +412,5 @@ I'd be happy to connect with people who enjoy building, experimenting, and impro
 </p>
 
 <sub>Building today. Improving tomorrow.</sub>
-
 </div>
-![Snake animation](https://raw.githubusercontent.com/junior-pobee/junior-pobee/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/junior-pobee/junior-pobee/output/github-contribution-grid-snake.svg" alt="Snake animation" />
