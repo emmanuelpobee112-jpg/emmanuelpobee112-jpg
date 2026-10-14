@@ -414,6 +414,8 @@ I'd be happy to connect with people who enjoy building, experimenting, and impro
 <sub>Building today. Improving tomorrow.</sub>
 </div>
 <div align="center">
+<hr>
+<hr>
   
 ### 🐍 Contribution Graph
 
