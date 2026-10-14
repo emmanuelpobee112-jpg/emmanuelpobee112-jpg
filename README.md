@@ -413,4 +413,12 @@ I'd be happy to connect with people who enjoy building, experimenting, and impro
 
 <sub>Building today. Improving tomorrow.</sub>
 </div>
+<div align="center">
+  
+### 🐍 Contribution Graph
+
 <img src="https://raw.githubusercontent.com/junior-pobee/junior-pobee/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+*Building in public — one commit at a time from Accra, Ghana 🇬🇭*
+
+</div>
